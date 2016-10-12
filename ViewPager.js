@@ -10,7 +10,7 @@ var DefaultViewPageIndicator = require('./DefaultViewPageIndicator');
 var deviceWidth = Dimensions.get('window').width;
 var ViewPagerDataSource = require('./ViewPagerDataSource');
 
-// If there is no set default interval set default to 5 seconds
+// If there is no seeet default interval set default to 5 seconds
 var autoPlayInterval = 5000;
 
 var ViewPager = React.createClass({
