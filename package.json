@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/race604/react-native-viewpager.git"
+    "url": "git+https://github.com/jerson/react-native-viewpager.git"
   },
   "keywords": [
     "react-native-component",
